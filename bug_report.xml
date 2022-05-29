@@ -8,11 +8,8 @@
   <Steps to Reproduce>
     1) Login into the Application
     2) Navigate to the Users Menu -> New User
-    3) Filled out all the user information fields
-    4) Clicked on the ‘Save’ button
-    5) Seen an error page 'ORA1090 Exception: Insert values Error…' 
-    6) See the attached logs for more information 
-    7) Also see the attached screenshot of the error page
+    3) Fill out all the fields
+    4) Click on the ‘Save’ button
  </Steps to Reproduce>
   <Actual Result> "Application crashes upon clicking the SAVE button while creating a new the user"</Actual Result>
   <Expected Result> "On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'</Expected Result>
